@@ -12,6 +12,6 @@ CREATE TABLE IF NOT EXISTS tasks (
 );
 
 -- Insert a couple of sample tasks so the app isn't empty on first load
-INSERT INTO tasks (title) VALUES ('task 1 ');
-INSERT INTO tasks (title) VALUES ('task 2 ');
-INSERT INTO tasks (title) VALUES ('task 3 ');
+INSERT INTO tasks (title) VALUES ('task 1');
+INSERT INTO tasks (title) VALUES ('task 2');
+INSERT INTO tasks (title) VALUES ('task 3');
