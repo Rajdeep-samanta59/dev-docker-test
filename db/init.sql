@@ -12,6 +12,6 @@ CREATE TABLE IF NOT EXISTS tasks (
 );
 
 -- Insert a couple of sample tasks so the app isn't empty on first load
-INSERT INTO tasks (title) VALUES ('Learn Docker basics');
-INSERT INTO tasks (title) VALUES ('Write a Dockerfile');
-INSERT INTO tasks (title) VALUES ('Use Docker Compose');
+INSERT INTO tasks (title) VALUES ('task 1 ');
+INSERT INTO tasks (title) VALUES ('task 2 ');
+INSERT INTO tasks (title) VALUES ('task 3 ');
